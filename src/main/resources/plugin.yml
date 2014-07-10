@@ -1,0 +1,3 @@
+name: oscen00-t2
+main: com.tenjava.entries.oscen00.t2.TenJava
+version: '${project.version}'
